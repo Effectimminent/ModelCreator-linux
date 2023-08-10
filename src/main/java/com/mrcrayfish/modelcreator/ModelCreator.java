@@ -121,7 +121,6 @@ public class ModelCreator extends JFrame
                 @Override
                 public void windowGainedFocus(WindowEvent e)
                 {
-                    canvas.requestFocusInWindow();
                 }
             });
         }
